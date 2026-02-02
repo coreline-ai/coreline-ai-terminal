@@ -1,5 +1,7 @@
 # Coreline AI 터미널
 
+<img width="800" height="461" alt="스크린샷 2026-02-02 오후 10 57 41" src="https://github.com/user-attachments/assets/1a1a9286-1360-47c9-bc50-5203729afc65" />
+
 > Electron, React, TypeScript로 구축된 현대적인 AI 통합 터미널 에뮬레이터입니다.
 > 내장된 GLM-4 챗 어시스턴트, 파일 탐색기, 그리고 스킬 통합 기능을 제공합니다.
 
